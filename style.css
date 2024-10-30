@@ -1,0 +1,41 @@
+.main-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#btn-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+}
+
+#btn-wrapper > button {
+    flex: 50%;
+}
+
+#a1{
+    width: 200px;
+    height: 50px;
+    order: 1;
+}
+
+#a2{
+    width: 200px;
+    height: 50px;
+    order: 2;
+}
+
+#a3{
+    width: 200px;
+    height: 50px;
+    order: 3;
+}
+
+#a4{
+    width: 200px;
+    height: 50px;
+    order: 4;
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "id":"Q1",
+        "q": "Where is Disney's European theme park located?",
+        "answers": [
+            {"a1": "Stockholm, Sweden", "correct" : false},
+            {"a2": "Rome, Italy", "correct": false},
+            {"a3": "New York, USA", "correct": false},
+            {"a4": "Paris, France", "correct": true}
+        ]
+    },
+    {
+        "id":"Q2",
+        "q": "Which Disney movie has had the most sequels?",
+        "answers": [
+            {"a1": "Atlantis", "correct" : false},
+            {"a2": "Toy Story", "correct": true},
+            {"a3": "Alice in Wonderland", "correct": false},
+            {"a4": "Lion King", "correct": false}
+        ]
+    },
+    {
+        "id":"Q3",
+        "q": "\"I'll Make a Man Out of You\" is a song from which movie?",
+        "answers": [
+            {"a1": "Mulan", "correct" : true},
+            {"a2": "Ice Age", "correct": false},
+            {"a3": "Little Chicken", "correct": false},
+            {"a4": "Finding Nemo", "correct": false}
+        ]
+    },
+    {
+        "id":"Q4",
+        "q": "What character have both Glen Close and Emma Stone played? ",
+        "answers": [
+            {"a1": "Snow White", "correct" : false},
+            {"a2": "Cinderella", "correct": false},
+            {"a3": "Cruella de Vil", "correct": true},
+            {"a4": "Malificent", "correct": false}
+        ]
+    },
+    {
+        "id":"Q5",
+        "q": "Who was the first Disney princess?",
+        "answers": [
+            {"a1": "Cinderella", "correct" : false},
+            {"a2": "Bella", "correct": false},
+            {"a3": "Sleeping Beauty", "correct": false},
+            {"a4": "Snow White", "correct": true}
+        ]
+    }
+    ]
